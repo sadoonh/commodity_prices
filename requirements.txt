@@ -6,3 +6,4 @@ streamlit-option-menu==0.3.6
 plotly
 urllib3==2.2.1
 yfinance==0.2.41
+vaderSentiment.vaderSentiment
