@@ -167,8 +167,8 @@ layout = go.Layout(
     yaxis_title=f'{commodity} Price',
     legend=dict(x=0, y=1.0),
     margin=dict(l=40, r=0, t=40, b=30),
-    paper_bgcolor='black',
-    plot_bgcolor='black',
+    paper_bgcolor='#0F1116',  # Set the paper background color
+    plot_bgcolor='#0F1116',   # Set the plot background color
     font=dict(color='white'),  # Change the font color to white for visibility on black background
     xaxis=dict(showgrid=False),  # Disable gridlines on x-axis
     yaxis=dict(showgrid=False)   # Disable gridlines on y-axis
